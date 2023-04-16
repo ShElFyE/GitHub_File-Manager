@@ -1,0 +1,4 @@
+Top 3 expenses by category:
+Food: 30
+Top 3 categories by total expense:
+Food: 30
